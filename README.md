@@ -24,7 +24,7 @@ Magda Arques - portfoli
 
 *[Karen, Díaz](https://karendiazdoamaral.github.io/PAGINA-WEB/)
 
-*[Alejandra, Asencio]()
+*[Alejandra, Asencio](https://asencioca.github.io/portfolio/)
 
 *[Pau Alcaraz]()
 

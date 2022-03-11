@@ -8,7 +8,7 @@ Magda Arques - portfoli
 
 *[Miriam, Shafik]()
 
-*[Miriam, Delgado]()
+*[Miriam, Delgado](https://miriam-dm.github.io/portfolio_web/)
 
 *[Carolina, Fernández](https://carolrecursos.github.io/PortfoliWeb/)
 

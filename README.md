@@ -14,7 +14,7 @@ Magda Arques - portfoli
 
 *[Marina, Hernández](https://marinailu.github.io/Interfaz-portfolio/)
 
-*[Thalia, Toledo]()
+*[Thalia, Toledo](https://thalsxwho.github.io/portfolio_web/)
 
 *[Lucia, Varona]()
 

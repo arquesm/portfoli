@@ -12,7 +12,7 @@ Magda Arques - portfoli
 
 *[Carolina, Fernández](https://carolrecursos.github.io/PortfoliWeb/)
 
-*[Marina, Hernández]()
+*[Marina, Hernández](https://marinailu.github.io/Interfaz-portfolio/)
 
 *[Thalia, Toledo]()
 

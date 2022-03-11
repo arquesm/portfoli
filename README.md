@@ -28,4 +28,4 @@ Magda Arques - portfoli
 
 *[Pau Alcaraz]()
 
-*[Cristian Caro]()
+*[Cristian Caro](https://caroac818.github.io/Portfolio/)

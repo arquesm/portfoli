@@ -16,7 +16,7 @@ Magda Arques - portfoli
 
 *[Thalia, Toledo](https://thalsxwho.github.io/portfolio_web/)
 
-*[Lucia, Varona]()
+*[Lucia, Varona](https://lucypoke.github.io/Lloc-Web/)
 
 *[Dan Crespo](https://dan413413.github.io/portfoliweb/)
 

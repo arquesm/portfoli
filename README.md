@@ -22,7 +22,7 @@ Magda Arques - portfoli
 
 *[Irene, Martínez]()
 
-*[Karen, Díaz]()
+*[Karen, Díaz](https://karendiazdoamaral.github.io/PAGINA-WEB/)
 
 *[Alejandra, Asencio]()
 
